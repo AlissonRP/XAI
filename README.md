@@ -14,6 +14,6 @@ Classical Models to LLMs](https://arxiv.org/pdf/2412.00800)
 * [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://arxiv.org/abs/1910.10045)
 * [Problems with Shapley-value-based explanations as feature importance measures](https://arxiv.org/abs/2002.11097)
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
-* 
+* [Explainability for Large Language Models: A Survey](https://arxiv.org/pdf/2309.01029)
 
 ## Vídeos:
